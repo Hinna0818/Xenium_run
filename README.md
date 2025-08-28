@@ -14,11 +14,11 @@ The objective of this project was to develop a pipeline for predicting cell cycl
 
 ## 🧱 Main Features
 
---Load and preprocess Xenium spatial output bundles
---Extract and align DAPI-stained nuclear images
---Perform image-based cell cycle phase prediction using morphological features
---Integrate predictions with transcriptomic and spatial metadata
---Enable downstream visualization and analysis of dividing vs non-dividing cells
+--Load and preprocess Xenium spatial output bundles  
+--Extract and align DAPI-stained nuclear images  
+--Perform image-based cell cycle phase prediction using morphological features  
+--Integrate predictions with transcriptomic and spatial metadata  
+--Enable downstream visualization and analysis of dividing vs non-dividing cells  
 
 ---
 
