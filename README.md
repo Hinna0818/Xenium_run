@@ -9,6 +9,7 @@ This repository contains code for preprocessing **Xenium spatial transcriptomics
 This project was conducted as part of a short-term research internship in the **Zhang Yong Lab** at the **School of Life Sciences and Technology, Tongji University, Shanghai, China**, from **August 21 to August 29, 2025**.
 
 The objective of this project was to develop a pipeline for predicting cell cycle phases based on DAPI-stained nuclear images from Xenium spatial transcriptomics datasets by 10x Genomics. By integrating high-resolution morphology with cell-level metadata, this work aims to support spatially resolved functional analysis of proliferative states in complex tissues.
+
 ---
 
 ## 🧱 Main Features
@@ -18,8 +19,6 @@ The objective of this project was to develop a pipeline for predicting cell cycl
 --Perform image-based cell cycle phase prediction using morphological features
 --Integrate predictions with transcriptomic and spatial metadata
 --Enable downstream visualization and analysis of dividing vs non-dividing cells
-
----
 
 ---
 
